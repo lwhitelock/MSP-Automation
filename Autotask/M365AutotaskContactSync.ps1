@@ -13,9 +13,6 @@ $AutotaskAPIUser = "ABCDEFGH123@domain.com"
 $AutotaskAPISecret = "abcdefghjikl1245667799"
 
 
-########################## End Secrets Management ##########################
-
-
 #### Script Settings ####
 
 # Autotask API Base, set this to the base that matches your instance.
